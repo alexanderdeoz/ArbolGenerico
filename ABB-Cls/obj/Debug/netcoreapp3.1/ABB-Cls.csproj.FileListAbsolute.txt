@@ -1,0 +1,8 @@
+C:\Users\Personal\Desktop\abb-deber\ABB-Generico\ABB-Cls\obj\Debug\netcoreapp3.1\ABB-Cls.csprojAssemblyReference.cache
+C:\Users\Personal\Desktop\abb-deber\ABB-Generico\ABB-Cls\obj\Debug\netcoreapp3.1\ABB-Cls.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\abb-deber\ABB-Generico\ABB-Cls\obj\Debug\netcoreapp3.1\ABB-Cls.AssemblyInfo.cs
+C:\Users\Personal\Desktop\abb-deber\ABB-Generico\ABB-Cls\obj\Debug\netcoreapp3.1\ABB-Cls.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Consolas\abb-deber\ABB-Generico\ABB-Cls\obj\Debug\netcoreapp3.1\ABB-Cls.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Consolas\abb-deber\ABB-Generico\ABB-Cls\obj\Debug\netcoreapp3.1\ABB-Cls.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Consolas\abb-deber\ABB-Generico\ABB-Cls\obj\Debug\netcoreapp3.1\ABB-Cls.AssemblyInfo.cs
+C:\Users\User\Desktop\Consolas\abb-deber\ABB-Generico\ABB-Cls\obj\Debug\netcoreapp3.1\ABB-Cls.csproj.CoreCompileInputs.cache
